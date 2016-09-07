@@ -1,2 +1,2 @@
-## Scotch React Router
-A demo for that backs a Scotch article on routing in React.
+## Scotch React Todo
+A demo that backs a Scotch article on building a Todo App using React.
